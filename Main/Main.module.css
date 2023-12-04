@@ -1,0 +1,29 @@
+.section {
+    padding-top: 0px;
+    align-items: center;
+    text-align: center;
+    font-family: 'Monaco', monospace;
+  }
+  
+  .image {
+    margin: 0 auto;
+    width: 1000px;
+    height: auto;
+  }
+  
+  .textBold {
+    margin: 0;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+  }
+
+  .text {
+    margin: 0;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 200;
+    text-align: center;
+    font-family: 'Monaco';
+  }
